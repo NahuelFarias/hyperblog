@@ -1,7 +1,7 @@
 # Hyperblog 💚
 Un blog increíble para el [curso de Git y GitHub](http://platzi.com/cursos/git-github "curso de Git y GitHub") de [Platzi](http://platzi.com "Platzi")
->El curso de Git y GitHub de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la indusctria del tejido de lana sintética con Machine Learning
-> - Niñita
+>El curso de Git y GitHub de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
+> - Soy un item loco
 
 ## En este curso veremos de todo
 * Todos los comandos de Git
@@ -10,7 +10,7 @@ Un blog increíble para el [curso de Git y GitHub](http://platzi.com/cursos/git-
 * Trucos muy locos del profesor 
 * Las personlidades múltiples de Freddy
 
-Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. SIl llegas acá NO TE LO TOMES ENSERIO y mejor ve [**a ver el curso**](http://platzi.com/cursos/git-github "a ver el curso").
+Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve [**a ver el curso**](http://platzi.com/cursos/git-github "a ver el curso").
 
 Gracias por leer Jejeje
 
